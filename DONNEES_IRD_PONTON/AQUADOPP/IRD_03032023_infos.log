@@ -1,0 +1,40 @@
+============================================================
+Deployment   : ird-03
+Current time : 03/03/2023 11:10:01
+Start at     : 03/03/2023 11:08:00
+Comment:
+
+------------------------------------------------------------
+Measurement interval  (s) : 600
+Average interval      (s) : 60
+Blanking distance     (m) : 0.35
+Measurement load      (%) : 4
+Power level               : LOW+
+Diagnostics interval(min) : 720
+Diagnostics samples       : 20
+Compass upd. rate     (s) : 2
+Coordinate System         : ENU
+Speed of sound      (m/s) : MEASURED
+Salinity            (ppt) : 35
+Analog input 1            : NONE
+Analog input 2            : NONE
+Analog input power out    : DISABLED
+File wrapping             : OFF
+Serial output/TellTale    : OFF
+------------------------------------------------------------
+Assumed duration   (days) : 30.0
+Battery utilization   (%) : 16.0
+Battery level         (V) : 12.3
+Recorder size        (MB) : 9
+Recorder free space  (MB) : 5.343
+Memory required      (MB) : 0.2
+Vertical vel. prec (cm/s) : 2.5
+Horizon. vel. prec (cm/s) : 1.5
+------------------------------------------------------------
+Instrument ID             : AQD 9315
+Head ID                   : AQD 4559
+Firmware version          : 3.34
+------------------------------------------------------------
+Aquadopp Version 1.35
+Copyright (C) Nortek AS
+============================================================

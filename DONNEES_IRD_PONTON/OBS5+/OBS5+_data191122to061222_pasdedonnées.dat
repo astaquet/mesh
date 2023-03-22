@@ -1,0 +1,16 @@
+
+
+OBS-5+ S/N:S5266     Firmware Version: 1.50
+Sensor                            Data Columns
+ 1  Pressure                       Mean & s.d.
+ 2  NEAR OBS                       Mean & s.d.
+ 6  ND Count                              Mean
+ 7  FD Count                              Mean
+ 9  Battery                               Mean
+
+08:43:10 12/06/2022     0.00     0.00     6.40     0.03  32860.40  32855.00      4.7 
+08:43:20 12/06/2022     0.00     0.00     6.40     0.03  32860.40  32848.60      4.7 
+08:43:30 12/06/2022     0.00     0.00     6.40     0.03  32860.40  32848.60      4.7 
+00:00:00 01/01/1970     0.00     0.00     0.00     0.00     0.00     0.00      0.0 
+ 102  Bytes read from file.
+OBS>
